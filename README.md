@@ -25,6 +25,8 @@
 
 # awesome-zsh-plugins
 
+[![Join the chat at https://gitter.im/akoenig/awesome-zsh-plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akoenig/awesome-zsh-plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/unixorn/awesome-zsh-plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unixorn/awesome-zsh-plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A collection of ZSH frameworks, plugins, tutorials & themes inspired by the various awesome list collections out there.
